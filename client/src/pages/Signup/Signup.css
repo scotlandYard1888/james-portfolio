@@ -1,0 +1,42 @@
+.signup-page .error-text{
+    color : rgb(224, 30, 61);
+    margin-top: 15px;
+}
+
+.signup-page .error-focus{
+    box-shadow: rgb(224, 30, 61);
+}
+
+.signup-page #signup {
+    font-family: 'Fjalla One', sans-serif;
+    text-transform: uppercase;
+    color: rgb(224, 30, 61);
+}
+
+.signup-page p {
+    font-size: 130%;
+}
+
+.signup-page #here:hover {
+    color: rgb(1,159,175);
+}
+
+.signup-page input {
+    width: 100% !important;
+    text-align: center;
+    margin: -2.8%;
+}
+
+.signup-page button {
+    background-color: rgb(1,159,175);
+    color: white;
+    padding: 2%;
+    padding-left: 7%;
+    padding-right: 7%;
+    border: none;
+    margin-top: 10%;
+}
+
+.signup-page button:hover {
+    background-color: rgb(1,184,199);
+}
